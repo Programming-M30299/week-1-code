@@ -1,4 +1,4 @@
-# Code from week x
+# Code from week 1
 
 A repository containing the examples from the worksheet.
 
