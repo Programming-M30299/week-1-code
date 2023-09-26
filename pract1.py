@@ -6,9 +6,6 @@ def sayBye():
     print("Goodbye Mars")
 
 
-# TODO: Write `sayBye2` function here
-
-
 # A simple kilograms to ounces conversion program
 # It asks for a weight in kilograms (for example 10)
 # and converts it to ounces (352.74)
