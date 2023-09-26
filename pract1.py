@@ -2,11 +2,6 @@ def sayHello():
     print("Hello World")
 
 
-def sayHello2():
-    print("Hello")
-    print("World")
-
-
 def sayBye():
     print("Goodbye Mars")
 
